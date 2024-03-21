@@ -16,7 +16,7 @@ export default function App({ Component }: AppProps) {
       <ApolloProvider client={client}>
         <Component />
       </ApolloProvider>
-      <div>=============== 여기는 app.js 입니다. ==============</div>
+      <div>=============== 여기는 app.js 입니다시발 진짜. ==============</div>
     </>
   );
 }
